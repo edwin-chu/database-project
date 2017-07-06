@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Database Project
+## Database Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Database Project*
 
 
 **Java 8**
